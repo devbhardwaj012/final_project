@@ -1,0 +1,73 @@
+/* .footer {
+    background-color: #2d3748;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-text {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .developer-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .developer-list li {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+   */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* Footer Styling */
+.footer {
+    background-color: #2d3748;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Footer Text and Developer List */
+  .footer-text {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .developer-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .developer-list li {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+  
